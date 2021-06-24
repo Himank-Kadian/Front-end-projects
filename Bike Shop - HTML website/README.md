@@ -9,3 +9,8 @@ This is a fully functional website made using only HTML. This website is about a
 ![image](https://user-images.githubusercontent.com/60160747/123182603-a8376780-d444-11eb-8c5a-13aa381d73d0.png)
 ![image](https://user-images.githubusercontent.com/60160747/123182621-b2596600-d444-11eb-8329-7932ce75b309.png)
 
+## Concepts Learned
+- Linking pages in the nav bar
+- Adding links attached to pictures in footer
+- Creating a useful table using HTML
+- Useage of several HTML tags
